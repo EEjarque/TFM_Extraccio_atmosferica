@@ -2,7 +2,7 @@
 
 ## Descripció
 
-Aquest repositori conté els notebooks creats com a part del meu Treball Final de Màster en Ciència de Dades a la [Universitat Oberta de Catalunya](www.uoc.edu) (Juny de 2023).
+Aquest repositori conté els notebooks creats com a part del meu Treball Final de Màster en Ciència de Dades a la [Universitat Oberta de Catalunya](https://www.uoc.edu) (Juny de 2023).
 
 ## Contingut
 
