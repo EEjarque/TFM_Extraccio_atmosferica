@@ -1,8 +1,15 @@
 # Extracció atmosfèrica dels exoplanetes de la missió Ariel utilitzant mètodes de conjunt basats en arbres de decisió
 
-## Descripció
-
 Aquest repositori conté els notebooks creats com a part del meu Treball Final de Màster en Ciència de Dades a la [Universitat Oberta de Catalunya](https://www.uoc.edu) (Juny de 2023).
+
+<figure>
+<img align="left" src="https://imgur.com/i7yiUvA.jpg" width="350">
+</figure>
+
+En aquest treball s'ha investigat la viabilitat d'utilitzar models de conjunt basats en arbres de decisió per realitzar l'extracció atmosfèrica d'exoplanetes que s'analitzaran en la propera missió Ariel. Aquest estudi s'emmarca dins els esforços que s'estan fent actualment per trobar alternatives computacionalment més eficients a les tècniques tradicionals basades en inferència Bayesiana. Els resultats obtinguts demostren el potencial de les tècniques basades en Random Forest i Gradient Boosting per analitzar de forma eficient i fiable el gran volum de dades espectrals que s'espera obtenir en els propers anys. 
+
+*Imatge adaptada d'[aquí](https://www.ariel-datachallenge.space/)*.
+
 
 ## Contingut
 
@@ -28,7 +35,7 @@ Aquest repositori conté els notebooks creats com a part del meu Treball Final d
 
 ## Requisits
 
-Per executar els notebooks, cal prèviament descarregar les dades de l'ABC Database (Changeat i Yip, 2023), accessibles [aquest repositori Zenodo](https://zenodo.org/record/6770103).
+Per executar els notebooks, cal prèviament descarregar les dades de l'ABC Database (Changeat i Yip, 2023), accessibles en [aquest repositori Zenodo](https://zenodo.org/record/6770103).
 
 Aquestes dades es van publicar en el marc de l'[Ariel Data Challenge](https://www.ariel-datachallenge.space/), edició 2022.
 
@@ -40,6 +47,7 @@ Malgrat tot, els mètodes actuals per interpretar els espectres atmosfèrics só
 
 Els resultats obtinguts han demostrat que aquesta família de tècniques, aplicades a l'ABC Database, tenen una capacitat de precció més elevada que el mètodes tradicionals d'inferència Bayesiana Nested Sampling. A més, tots els models desenvolupats han presentat uns temps d'entrenament de màxim 1.5 minuts, posant de relleu la seva eficiència computacional. En conseqüència, els mètodes de conjunt basats en arbres de decisió es posicionen com una alternativa prometedora als mètodes actuals per fer front al gran volum de dades que s'adquirirà en les properes missions dedicades a la caracterització atmosfèrica d'exoplanetes.
 
+<br>
 
 *In the last two decades up to 5272 exoplanets have been discovered, which have already begun to redefine our understanding of the formation and evolution of planetary systems. Recently, scientists have turned their attention from detection to the characterization of exoplanet atmospheres. Thanks to upcoming missions such as the recently launched James Webb Space Telescope, and the European Space Agency's Ariel Mission (due for launch in 2029), an unprecedented amount of atmospheric transmission spectra is to be obtained. These data will enable the characterization of the chemical composition and physical properties of these distant worlds.*
 
@@ -49,4 +57,4 @@ Els resultats obtinguts han demostrat que aquesta família de tècniques, aplica
 
 ## Referències
 
-[Changeat and Yip, 2023](https://arxiv.org/abs/2206.14633). ESA-Ariel Data Challenge NeurIPS 2022: Introduction to exo-atmospheric studies and presentation of the Atmospheric Big Challenge (ABC) Database (https://arxiv.org/abs/2206.14633)
+[Changeat and Yip, 2023](https://arxiv.org/abs/2206.14633). ESA-Ariel Data Challenge NeurIPS 2022: Introduction to exo-atmospheric studies and presentation of the Atmospheric Big Challenge (ABC) Database.
