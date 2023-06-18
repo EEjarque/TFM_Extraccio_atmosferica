@@ -6,7 +6,7 @@ Aquest repositori conté els notebooks creats com a part del meu Treball Final d
 <img align="left" src="https://imgur.com/i7yiUvA.jpg" width="350">
 </figure>
 
-En aquest treball s'ha investigat la viabilitat d'utilitzar models de conjunt basats en arbres de decisió per realitzar l'extracció atmosfèrica d'exoplanetes que s'analitzaran en la propera missió Ariel. Aquest estudi s'emmarca dins els esforços que s'estan fent actualment per trobar alternatives computacionalment més eficients a les tècniques tradicionals basades en inferència Bayesiana. Els resultats obtinguts demostren el potencial de les tècniques basades en Random Forest i Gradient Boosting per analitzar de forma eficient i fiable el gran volum de dades espectrals que s'espera obtenir en els propers anys. 
+En aquest treball s'ha investigat la viabilitat d'utilitzar models de conjunt basats en arbres de decisió per realitzar l'extracció atmosfèrica d'espectres exoplanetaris que s'analitzaran en la propera missió Ariel. Aquest estudi s'emmarca dins els esforços que s'estan fent actualment per trobar alternatives computacionalment més eficients a les tècniques tradicionals basades en inferència Bayesiana. Els resultats obtinguts demostren el potencial de les tècniques basades en Random Forest i Gradient Boosting per analitzar de forma eficient i fiable el gran volum de dades espectrals que s'espera obtenir en els propers anys. 
 
 *Imatge adaptada d'[aquí](https://www.ariel-datachallenge.space/)*.
 
